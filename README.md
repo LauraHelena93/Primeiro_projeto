@@ -1,4 +1,4 @@
-# 
+# 💻 Primeiro Projeto – Cálculo de Média
 Primeiro Projeto – Cálculo de Média 
 Este projeto em Python foi criado para praticar o ciclo **Entrada → Processamento → 
 Saída**.   
